@@ -2,7 +2,7 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Python developer. I write on Django, DRF</h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=almaz-gazizov)
 
 <!--
 **almaz-gazizov/almaz-gazizov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
