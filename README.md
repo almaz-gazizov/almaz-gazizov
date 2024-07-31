@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Almaz</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Python developer. I write on Django, DRF</h3>
+<h3 align="center">Python developer. I write on Django, FastAPI</h3>
 
 ## Stacks:
 
